@@ -10,4 +10,3 @@
 
 [hw1](https://shanice0106.github.io/example/week1/hw1.html)
 
-[link to Google!](http://google.com)
