@@ -7,7 +7,7 @@
 	-建立GitHub帳號<br>
 	-建readme.md，裡面包含自我介紹、課程內容等<br>
 	-建資料夾，編織出自己的網頁<br>
-<p>
+
 
 [hw1](https://shanice0106.github.io/example/week1/hw1.html)
 
